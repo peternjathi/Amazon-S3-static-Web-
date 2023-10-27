@@ -1,5 +1,6 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://chrome22.s3.us-west-2.amazonaws.com/nokyy.png)
+
 
 
 #  Launch a static website on Amazon S3
