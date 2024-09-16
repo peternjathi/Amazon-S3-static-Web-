@@ -11,7 +11,7 @@ You’ll create an Amazon S3 bucket to hold your static website files and an Ama
 
 This project uses the following Services:
 
-- Amazon Ec2
+- Amazon Ec2.
 - Amazon S3
 - CloudFront
 - Route53
