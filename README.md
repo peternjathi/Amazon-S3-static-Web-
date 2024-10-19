@@ -13,7 +13,7 @@ This project uses the following Services:
 
 - Amazon Ec2.
 - Amazon S3.
-- CloudFront
+- CloudFront.
 - Route53
 
 
