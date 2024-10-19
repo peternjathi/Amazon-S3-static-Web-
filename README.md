@@ -34,7 +34,7 @@ To deploy this project run
 6. Upload index and website content
 7. Upload an error document
 8. Edit S3 Block Public Access settings
-9. Attach a bucket policy
+9. Attach a bucket policy.
 10. Test your domain endpoint
 11. Add alias records for your domain and subdomain
 12. Test the website
