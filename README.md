@@ -28,7 +28,7 @@ To deploy this project run
 
 1. Register a custom domain with Route 53
 2. Create two buckets
-3. Configure your root domain bucket for website hosting
+3. Configure your root domain bucket for website hosting.
 4. Configure your subdomain bucket for website redirect
 5. Configure logging for website traffic
 6. Upload index and website content
