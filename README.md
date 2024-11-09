@@ -3,7 +3,7 @@
 
 
 
-#  Launch a static website on Amazon S3.
+#  Launch a static website on Amazon S3;
 
 You’ll create an Amazon S3 bucket to hold your static website files and an Amazon CloudFront distribution to serve your website globally. Amazon Route 53 will manage your domain name, and AWS Certificate Manager will provide a valid SSL/TLS certificate.
 
